@@ -1,0 +1,1 @@
+{"versionCode":12,"versionName":"1.0.12","notes":"Safer: warning when a contact security code changes, no silent switch to unencrypted, PIN lockout after wrong tries. New: delete for me, clear chat, delete chat, edit captions, messages sent automatically when internet returns. Fixed: message order, calls when both call at once, notification help for Vivo/Realme."}
